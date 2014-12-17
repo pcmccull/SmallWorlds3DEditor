@@ -1,0 +1,19 @@
+{
+  "name": "SmallWorldEditor",
+  "version": "0.0.0",
+  "description": "A prototype of the Lost Garden 2.5D editor",
+  "main": "main.js",
+  "dependencies": {
+    "browserify": "^7.0.0",
+    "underscore": "^1.7.0",
+    "jstify": "^0.7.0"
+  },
+  "devDependencies": {
+    "three": "^0.69.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Philip McCullick",
+  "license": "MIT"
+}
